@@ -7,8 +7,8 @@ password = os.getenv("EMAIL_PASSWORD")
 today = date.today()
 formatted_date = today.strftime("%d %B %Y")
 
-sender = "aditya.ranjan2241572@gmail.com"
-receiver = "aditya.ranjan13658683@gmail.com"
+sender = "senderemail@example.com"
+receiver = "recievername@example.com"
 receiver_name = input("Enter receiver name: ")
 
 # password = "cauc wonc vgnj lfxg"
